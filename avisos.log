@@ -1,0 +1,14 @@
+2023-10-25 20:36:31 INFO  Animal:16 - Simba está corriendo.
+2023-10-25 20:36:31 INFO  Animal:16 - Rajah está corriendo.
+2023-10-25 20:36:31 INFO  Animal:26 - Rajah es mayor a 10 años.
+2023-10-25 20:39:03 INFO  Animal:16 - Simba está corriendo.
+2023-10-25 20:39:03 INFO  Animal:16 - Rajah está corriendo.
+2023-10-25 20:39:03 INFO  Animal:26 - Rajah es mayor a 10 años.
+2023-10-25 20:39:44 INFO  Animal:16 - Simba está corriendo.
+2023-10-25 20:39:44 INFO  Animal:26 - Simba es mayor a 10 años.
+2023-10-25 20:39:44 INFO  Animal:16 - Rajah está corriendo.
+2023-10-25 20:39:44 INFO  Animal:26 - Rajah es mayor a 10 años.
+2023-10-25 20:40:22 INFO  Animal:16 - Simba está corriendo.
+2023-10-25 20:40:22 INFO  Animal:26 - Simba es mayor a 10 años.
+2023-10-25 20:40:22 INFO  Animal:16 - Rajah está corriendo.
+2023-10-25 20:40:22 DEBUG Animal:21 - Edad de Rajah es menor a cero.
