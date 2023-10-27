@@ -1,3 +1,5 @@
+package com.backend.parcial;
+
 import java.sql.*;
 
     public class TestLog {
@@ -5,7 +7,7 @@ import java.sql.*;
         public static void main(String[] args) throws Exception {
             Class.forName("org.h2.Driver").newInstance();
             Connection con = DriverManager.getConnection("jdbc:h2:"+
-                    "./Database/my", "root", "myPassword");
+                    "com/backend/parcial/Database/my", "root", "myPassword");
             Statement stmt = con.createStatement();
 
             //Código para crear una tabla. Elimina la tabla si esta ya existe y la
